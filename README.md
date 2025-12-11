@@ -48,7 +48,7 @@ A computer vision application that detects, tracks, and counts vehicles and pede
 
 ---
 
-**🌐 Live Demo**: [https://medoptix-analytics.streamlit.app/](https://medoptix-analytics.streamlit.app/)
+**🌐 Live Demo**: [https://traffic-control-detection.streamlit.app/](https://traffic-control-detection.streamlit.app/)
 
 **📊 Project Status**: Active Development
 
